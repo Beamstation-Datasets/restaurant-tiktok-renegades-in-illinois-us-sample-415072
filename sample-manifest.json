@@ -1,12 +1,12 @@
 {
-  "export_job_id": "09aed969-6283-44bd-8aeb-3437c62b80ec",
+  "export_job_id": "19a73a34-d3d7-42d7-8ca1-e4053e2ee3cc",
   "id_short": 415072,
-  "published_at": "2026-04-19T07:27:33Z",
+  "published_at": "2026-04-22T19:42:23Z",
   "repo_name": "restaurant-tiktok-renegades-in-illinois-us-sample-415072",
   "sample_asset_name": "beamstation_415072_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/415072/beamstation_415072_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_records": 9,
-  "sample_sha256": "1d6c5f6a4b533ca81f99e27fde3890765106fc2d6311762b9f035453ca9187f4",
-  "sample_size_bytes": 49904,
-  "total_records": 98
+  "sample_sha256": "4774fdb15e0a4d7830695f1b86785bb519fa336fb5cfa63c7a2bd42c43a884ba",
+  "sample_size_bytes": 49752,
+  "total_records": 91
 }
