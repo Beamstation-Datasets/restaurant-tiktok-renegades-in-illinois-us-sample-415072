@@ -1,6 +1,6 @@
 # Restaurant TikTok Renegades in Illinois, US
 
-> Free BeamStation sample export with 9 rows and masked direct-contact fields.
+> Free BeamStation sample export with 7 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `415072` |
 | Location | Illinois |
 | Category | Restaurants |
-| Full dataset size | 91 records |
-| Free sample size | 9 records (9.89%) |
-| Last export | 2026-04-22T16:25:48.791295+00:00 |
+| Full dataset size | 78 records |
+| Free sample size | 7 records (8.97%) |
+| Last export | 2026-04-29T16:26:40.782708+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-tiktok-renegades-in-illinois-us-sample-415072/releases/download/sample-latest/beamstation_415072_restaurants-us-il_SAMPLE_DIST.csv) |
 
 ## What is in this sample
